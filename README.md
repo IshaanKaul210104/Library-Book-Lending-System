@@ -26,9 +26,11 @@ A **Java desktop application** simulating a Library Book Lending System with a S
    cd Library_Book_Lending_System
    
 2. Compile all Java Files:
+   ```bash
    javac *.java
 
 3. Run the application:
+   ```bash
    java Main
 
 Author : Ishaan Kaul
